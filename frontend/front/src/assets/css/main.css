@@ -1,0 +1,10 @@
+@import "@/assets/css/common.css";
+
+/* components style here */
+
+@import "@/components/form/form.css";
+@import "@/components/navbar/navbar.css";
+
+/* views style here */
+
+@import "@/views/homeView/homeView.css";

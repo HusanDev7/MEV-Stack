@@ -1,0 +1,16 @@
+.home {
+    margin-top: 30px;
+}
+
+.home-title {
+    text-align: center;
+}
+
+.home-products {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 70px;
+}
